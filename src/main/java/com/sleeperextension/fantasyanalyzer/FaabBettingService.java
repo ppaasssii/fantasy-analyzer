@@ -12,7 +12,6 @@ import java.util.List;
 @Service
 public class FaabBettingService {
 
-
     @Autowired
     private FaabBettingRepository faabBettingRepository;
 
